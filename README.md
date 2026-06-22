@@ -1,0 +1,19 @@
+# ADS_TEB1113 Course All Lab Tasks - GitHub Repository
+
+**Author** - Nur Insyirah binti Zaini (24005781)
+
+| Date | Lab Tasks |
+| :--- | :--- |
+| 2026/05/29 | Task 01 - [Students](./Lab1.cpp) |
+| 2026/06/05 | Task 01 - [Easy-Rotated Matrix](#) |
+| | Task 02 - [Medium-Finding median in matrix using binary search](#) |
+| | Task 03 - [Advanced-Maximum area rectangle of 1s in a binary matrix](#) |
+| 2026/06/12 | Task 01 - [Singly Linked List](#) |
+| 2026/06/19 | Task 01 - [Double Linked List](#) |
+| | Task 02 - [Circular Linked List (Extra) - Change of Structure, Function remains](#) |
+| 2026/06/26 | |
+| 2026/07/03 | |
+| 2026/07/10 | |
+| 2026/07/17 | |
+| 2026/07/24 | |
+| 2026/07/31 | |
