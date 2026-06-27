@@ -16,21 +16,21 @@ using namespace std;
 int main(){
     
     Student student[5];
-    student [0] = {240001,"Muhammad",20,"Computer Science"};
-    student [1] = {240002,"Najla",20,"Petroleum Engineering"};
-    student [2] = {240003,"Rizqy",19,"Chemical Engineering"};
-    student [3] = {240004,"Fadila",21,"Mathematics"};
-    student [4] = {240005,"Dhia",20,"Biology"};
+    student [0] = {24005784,"Hakim",20,"Computer Science"};
+    student [1] = {24002654,"Luqman",20,"Petroleum Engineering"};
+    student [2] = {24001452,"Husna",19,"Chemical Engineering"};
+    student [3] = {24003652,"Amalia",21,"Business Management"};
+    student [4] = {24003258,"Dhia",20,"Biology"};
     
 int choice;
 
 do{
     
-cout << "\n ==== STUDENT DATABASE ==== \n" ;
-cout << "1. Display all records \n ";
-cout << "2. Search for a student data\n";
-cout << "3. Update a student record\n";
-cout << "4. Exit \n";
+cout<< "\n ==== STUDENT DATABASE ==== \n" ;
+cout<< "1. Display all records \n ";
+cout<< "2. Search for a student data\n";
+cout<< "3. Update a student record\n";
+cout<< "4. Exit \n";
 cout<<"\n Enter your choice: "; cin >> choice;
 
 switch(choice){
@@ -44,7 +44,7 @@ switch(choice){
     break;}
     case 3:{
     int updateId;
-    cout << "\n Enter Student ID to update : "; cin >> updateId;
+    cout << "\n Enter Student ID to update : "; cin>> updateId;
     updateRecord(student,5,updateId);
     break;}
     case 4:
