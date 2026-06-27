@@ -37,7 +37,7 @@ bool isValid(char board[9]) {
     if (countX == countO || countX == countO + 1) {
         // If O wins, X must NOT also win, and counts must be equal (O moved last)
         if (isWin(board, 'O')) {
-            if (isWin(board, 'X')) 
+            if (isWin(board, 'X'))
                 return false;          // both cannot win
             return (countX == countO);
         }
