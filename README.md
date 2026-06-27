@@ -6,7 +6,7 @@
 | :--- | :--- |
 | 2026/05/29 | Task 01 - [Students](./Lab1.cpp) |
 | 2026/06/05 | Task 01 - [Easy-Print matrix in Snake Pattern](#) |
-|            | Task 02 - [Medium-Find The Number of Island](#) |
+|            | Task 02 - [Medium-Median in row wise sorted matrix](#) |
 | | Task 03 - [Advanced-Tic-Tac-Toe Validity](#) |
 | 2026/06/12 | Task 01 - [Singly Linked List](#) |
 | 2026/06/19 | Task 01 - [Double Linked List](#) |
