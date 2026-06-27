@@ -11,10 +11,10 @@
 | 2026/06/12 | Task 01 - [Singly Linked List](./2026-06-12-Lab-3/Lab3-Task1.cpp) |
 | 2026/06/19 | Task 01 - [Double Linked List](./2026-06-19-Lab-4/Lab4-Task1.cpp) |
 |            | Task 02 - [Circular Linked List (Extra)](./2026-06-19-Lab-4/Lab4-Task2.cpp) |
-| 2026/06/26 | Task 01 - [Stack (Linked List)](./2026-06-26-Lab-5/StackLinkedList.cpp) |
-|            | Task 02 - [Stack (Array)](./2026-06-26-Lab-5/StackArray.cpp) |
-|            | Task 03 - [Queue (Linked List)](./2026-06-26-Lab-5/QueueLinkedList.cpp) |
-|            | Task 04 - [Queue (Array)](./2026-06-26-Lab-5/QueueArray.cpp) |
+| 2026/06/26 | Task 01 - [Stack (Linked List)](./2026-06-26-Lab-5/Lab5-Task1.cpp) |
+|            | Task 02 - [Stack (Array)](./2026-06-26-Lab-5/Lab5-Task2.cpp) |
+|            | Task 03 - [Queue (Linked List)](./2026-06-26-Lab-5/Lab5-Task3.cpp) |
+|            | Task 04 - [Queue (Array)](./2026-06-26-Lab-5/Lab5-Task4.cpp) |
 | 2026/07/03 | TBA |
 | 2026/07/10 | TBA |
 | 2026/07/17 | TBA |
