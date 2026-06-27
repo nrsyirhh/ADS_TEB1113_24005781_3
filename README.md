@@ -4,7 +4,7 @@
 
 | Date | Lab Tasks |
 | :--- | :--- |
-| 2026/05/29 | Task 01 - [Students](./2026-05-29-Lab-1/Lab1.cpp) |
+| 2026/05/29 | Task 01 - [Students](./2026_05_29-Lab-1/Lab1.cpp) |
 | 2026/06/05 | Task 01 - [Easy-Print matrix in Snake Pattern](./2026-06-05-Lab-2/Lab2-Task1.cpp) |
 |            | Task 02 - [Medium-Median in row wise sorted matrix](./2026-06-05-Lab-2/Lab2-Task2.cpp) |
 |            | Task 03 - [Advanced-Tic-Tac-Toe Validity](./2026-06-05-Lab-2/Lab2-Task3.cpp) |
