@@ -16,7 +16,7 @@
 | | | Task 03 - [Queue (Linked List)](./2026-06-26-Lab-5/Lab5-Task3.cpp) |
 | | | Task 04 - [Queue (Array)](./2026-06-26-Lab-5/Lab5-Task4.cpp) |
 | Week 6 | 2026/07/03 | Task 01 - [Binary Search Tree-Tree](./2026-07-03-Lab-6/BinaryTree.cpp) |
-| Week 7 | 2026/07/10 | Task 01 - [Graph_LinkedList](./2026-07-03-Lab-7/graph_linkedlist.cpp) |
+| Week 7 | 2026/07/10 | Task 01 - [Graph_LinkedList](./2026-07-10-Lab-7/graph_linkedlist.cpp) |
 | Week 8 | 2026/07/17 | Task 01 - [Bubble_sort](./2026-07-17-Lab-8/BubbleSort.cpp) |
 | | | Task 02 - [Selection_sort](./2026-07-17-Lab-8/Selection.cpp) |
 | | | Task 03 - [Insertion_sort](./2026-07-17-Lab-8/Insertion.cpp) |
