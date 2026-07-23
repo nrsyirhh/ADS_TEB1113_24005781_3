@@ -15,8 +15,9 @@
 |            | Task 02 - [Stack (Array)](./2026-06-26-Lab-5/Lab5-Task2.cpp) |
 |            | Task 03 - [Queue (Linked List)](./2026-06-26-Lab-5/Lab5-Task3.cpp) |
 |            | Task 04 - [Queue (Array)](./2026-06-26-Lab-5/Lab5-Task4.cpp) |
-| 2026/07/03 | TBA |
-| 2026/07/10 | TBA |
-| 2026/07/17 | TBA |
-| 2026/07/24 | TBA |
-| 2026/07/31 | TBA |
+| 2026/07/03 | Task 01 - [Binary Search Tree-Tree](path/to/file) |
+| 2026/07/10 | Task 01 - [Graph_LinkedList](path/to/file) |
+| 2026/07/17 | Task 01 - [Bubble_sort](path/to/file) |
+| | Task 02 - [Selection_sort](path/to/file) |
+| | Task 03 - [Insertion_sort](path/to/file) |
+| | Task 04 - [Quick_sort](path/to/file) |
